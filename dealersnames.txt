@@ -1,0 +1,8 @@
+[1, Nano-Tech, 0702658746, Mount-Lavinia]
+[2, Redline technologies, 0761354789, Colombo-5]
+[3, NetLanka Computers, 0756983457, Galle]
+[4, ComNet Computers, 0764932517, Nugegoda]
+[5, Rsv Computers, 0714899753, Puttalam]
+[6, KT Computers, 0721556943, Gampaha]
+
+
